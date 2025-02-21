@@ -1,5 +1,7 @@
 # GALLERY
 
+[SEE THE EXAMPLE SITE](https://iabin.github.io/gallery)
+
 A Python-based tool to automatically **process images** and generate a **LightGallery**-powered HTML gallery.  
 It creates **compressed** (metadata-free) full-size images, **thumbnails** with preserved aspect ratio, and an `index.html` file displaying all processed images.
 
