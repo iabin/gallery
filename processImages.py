@@ -131,7 +131,7 @@ def generate_gallery_html():
 
             block = []
             block.append("<div>")
-            block.append(f"    <h2>{folder}</h2>")
+            block.append(f'    <h2 class="country-name">{folder}</h2>')
             block.append('    <div class="container">')
             block.append(f'        <div id="{gallery_id}">')
 
