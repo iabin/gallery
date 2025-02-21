@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Do not ignore this .gitignore file itself
+!.gitignore
+
+# Un-ignore the directory you want to track (replace 'your_dir' with your actual directory name)
+!generated/
+
+# Ensure all files and subdirectories under 'your_dir' are tracked
+!generated/**
